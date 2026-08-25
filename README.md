@@ -54,15 +54,15 @@ Custom unlock art is included. Pick it under **Style → Unlock**.
 
 ## Wallpapers
 
-Cycle with `Super + Ctrl + Space`. Six 4K wallpapers: brand plexus, then AI and hacker-blue.
+Cycle with `Super + Ctrl + Space`. Five 4K wallpapers; **constellation** is the default.
 
-| Neural void | Circuit halo |
+| **Constellation** (default) | Neural void |
 | --- | --- |
-| ![Neural void](backgrounds/01-neural-void.png) | ![Circuit halo](backgrounds/02-circuit-halo.png) |
-| **Constellation** | **Architecture** |
-| ![Constellation](backgrounds/03-constellation.png) | ![Architecture](backgrounds/04-architecture.png) |
-| **Hacker rain** | **Terminal** |
-| ![Hacker rain](backgrounds/05-hacker-rain.png) | ![Terminal](backgrounds/06-terminal.png) |
+| ![Constellation](backgrounds/01-constellation.png) | ![Neural void](backgrounds/02-neural-void.png) |
+| **Circuit halo** | **Architecture** |
+| ![Circuit halo](backgrounds/03-circuit-halo.png) | ![Architecture](backgrounds/04-architecture.png) |
+| **Hacker rain** |
+| ![Hacker rain](backgrounds/05-hacker-rain.png) |
 
 ## Screenshots
 
@@ -84,7 +84,7 @@ omarchy-xfurti-theme/
 ├── icons.theme           # Yaru-blue
 ├── keyboard.rgb          # Framework / ROG RGB
 ├── shell.lock.toml       # Lock screen chrome
-├── backgrounds/          # Six 4K tech / hacker wallpapers
+├── backgrounds/          # Five 4K tech / hacker wallpapers (constellation first)
 ├── unlock.png            # Plymouth unlock mark (transparent)
 ├── preview.png           # Theme switcher card
 ├── preview-unlock.png    # Unlock preview
