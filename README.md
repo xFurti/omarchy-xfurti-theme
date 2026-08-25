@@ -54,11 +54,19 @@ Custom unlock art is included. Pick it under **Style → Unlock**.
 
 ## Wallpapers
 
+Cycle with `Super + Ctrl + Space`. The first four are the original brand set; 05–09 take cues from stock Omarchy themes, recolored to xFurti.
+
 | Neural void | Circuit halo |
 | --- | --- |
 | ![Neural void](backgrounds/01-neural-void.png) | ![Circuit halo](backgrounds/02-circuit-halo.png) |
 | **Constellation** | **Aperture** |
 | ![Constellation](backgrounds/03-constellation.png) | ![Aperture](backgrounds/04-aperture.png) |
+| **Wire horizon** (Hackerman) | **Silk wave** (Catppuccin) |
+| ![Wire horizon](backgrounds/05-wire-horizon.png) | ![Silk wave](backgrounds/06-silk-wave.png) |
+| **Blue eye** (Catppuccin) | **Polyplex** (Hackerman) |
+| ![Blue eye](backgrounds/07-blue-eye.png) | ![Polyplex](backgrounds/08-polyplex.png) |
+| **Flare** (Ristretto) | |
+| ![Flare](backgrounds/09-flare.png) | |
 
 ## Screenshots
 
