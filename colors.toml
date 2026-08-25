@@ -1,0 +1,63 @@
+# xFurti — Omarchy theme
+# Palette extracted from Leonardo Bassanello (xFurti) brand banner and avatar.
+# Dark navy void, electric blue glow, warm bronze contrast.
+
+mode = "dark"
+
+accent = "#00a3ff"
+selection = "#12203a"
+muted = "#3d4e63"
+
+background = "#040a20"
+dark_background = "#020714"
+darker_background = "#010415"
+lighter_background = "#0e1a32"
+
+foreground = "#d6e4f5"
+dark_foreground = "#5a7394"
+light_foreground = "#e8f1fc"
+bright_foreground = "#f4f8ff"
+
+cursor = "#f4f8ff"
+selection_foreground = "#f4f8ff"
+selection_background = "#12203a"
+
+hyprland_active_border = "rgba(00a3ffee) rgba(15d5f9ee) 45deg"
+hyprland_inactive_border = "rgba(3d4e63aa)"
+active_border_color = "#00a3ff"
+active_tab_background = "#00a3ff"
+
+red = "#f25a7a"
+yellow = "#ed964f"
+orange = "#c87438"
+green = "#2ec9a0"
+cyan = "#15d5f9"
+blue = "#00a3ff"
+magenta = "#8b7eff"
+brown = "#5b3013"
+
+bright_red = "#ff7a96"
+bright_yellow = "#f4c18f"
+bright_green = "#5ee0bb"
+bright_cyan = "#7ee8ff"
+bright_blue = "#4db8ff"
+bright_magenta = "#b0a4ff"
+
+# ANSI aliases for extra-theme listings and older consumers.
+# Omarchy also derives these from the semantic keys above.
+color0 = "#040a20"
+color1 = "#f25a7a"
+color2 = "#2ec9a0"
+color3 = "#ed964f"
+color4 = "#00a3ff"
+color5 = "#8b7eff"
+color6 = "#15d5f9"
+color7 = "#d6e4f5"
+color8 = "#3d4e63"
+color9 = "#ff7a96"
+color10 = "#5ee0bb"
+color11 = "#f4c18f"
+color12 = "#4db8ff"
+color13 = "#b0a4ff"
+color14 = "#7ee8ff"
+color15 = "#f4f8ff"
