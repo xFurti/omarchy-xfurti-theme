@@ -56,9 +56,9 @@ Custom unlock art is included. Pick it under **Style → Unlock**.
 
 | Neural void | Circuit halo |
 | --- | --- |
-| ![Neural void](backgrounds/01-neural-void.jpg) | ![Circuit halo](backgrounds/02-circuit-halo.jpg) |
+| ![Neural void](backgrounds/01-neural-void.png) | ![Circuit halo](backgrounds/02-circuit-halo.png) |
 | **Constellation** | **Aperture** |
-| ![Constellation](backgrounds/03-constellation.jpg) | ![Aperture](backgrounds/04-aperture.jpg) |
+| ![Constellation](backgrounds/03-constellation.png) | ![Aperture](backgrounds/04-aperture.png) |
 
 ## Screenshots
 
