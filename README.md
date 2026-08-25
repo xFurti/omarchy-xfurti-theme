@@ -54,19 +54,15 @@ Custom unlock art is included. Pick it under **Style → Unlock**.
 
 ## Wallpapers
 
-Cycle with `Super + Ctrl + Space`. All ten are 4K, navy + electric blue, and built around tech / AI motifs.
+Cycle with `Super + Ctrl + Space`. Six 4K wallpapers: brand plexus, then AI and hacker-blue.
 
 | Neural void | Circuit halo |
 | --- | --- |
 | ![Neural void](backgrounds/01-neural-void.png) | ![Circuit halo](backgrounds/02-circuit-halo.png) |
-| **Constellation** | **Aperture** |
-| ![Constellation](backgrounds/03-constellation.png) | ![Aperture](backgrounds/04-aperture.png) |
-| **Architecture** | **Attention** |
-| ![Architecture](backgrounds/05-architecture.png) | ![Attention](backgrounds/06-attention.png) |
-| **Weights** | **Latent** |
-| ![Weights](backgrounds/07-weights.png) | ![Latent](backgrounds/08-latent.png) |
-| **Bitstream** | **Chip** |
-| ![Bitstream](backgrounds/09-bitstream.png) | ![Chip](backgrounds/10-chip.png) |
+| **Constellation** | **Architecture** |
+| ![Constellation](backgrounds/03-constellation.png) | ![Architecture](backgrounds/04-architecture.png) |
+| **Hacker rain** | **Terminal** |
+| ![Hacker rain](backgrounds/05-hacker-rain.png) | ![Terminal](backgrounds/06-terminal.png) |
 
 ## Screenshots
 
@@ -88,7 +84,7 @@ omarchy-xfurti-theme/
 ├── icons.theme           # Yaru-blue
 ├── keyboard.rgb          # Framework / ROG RGB
 ├── shell.lock.toml       # Lock screen chrome
-├── backgrounds/          # Ten 4K tech/AI wallpapers
+├── backgrounds/          # Six 4K tech / hacker wallpapers
 ├── unlock.png            # Plymouth unlock mark (transparent)
 ├── preview.png           # Theme switcher card
 ├── preview-unlock.png    # Unlock preview
